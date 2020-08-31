@@ -1,0 +1,76 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/API/ClientAPIController.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/app/Http/Controllers/API/ClientAPIController.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :composer.json
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/composer.json
+> git cat-file -s 29f3db0e08fb8820f52af8384ae4f77be148b49b
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Providers/RouteServiceProvider.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/app/Providers/RouteServiceProvider.php
+> git cat-file -s 34cbfcb94e8b44d74291a5fa9115d5f12b33167b
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Models/Client.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/app/Models/Client.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :database/migrations/2020_08_31_142741_create_clients_table.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/database/migrations/2020_08_31_142741_create_clients_table.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/clients/create.blade.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/resources/views/clients/create.blade.php
+> git show --textconv :resources/views/clients/edit.blade.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/resources/views/clients/edit.blade.php
+> git check-ignore -v -z --stdin
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/routes/web.php
+> git cat-file -s b13039731c4c9ac7fa18295660a55cb14214e14e
+> git show --textconv :app/Http/Controllers/API/ClientAPIController.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/app/Http/Controllers/API/ClientAPIController.php
+> git show --textconv :resources/views/clients/create.blade.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/resources/views/clients/create.blade.php
+> git show --textconv :app/Http/Controllers/API/ClientAPIController.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/app/Http/Controllers/API/ClientAPIController.php
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Http/Controllers/API/CompteAPIController.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/app/Http/Controllers/API/CompteAPIController.php
+> git show --textconv :app/Models/Compte.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/app/Models/Compte.php
+> git show --textconv :routes/web.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/routes/web.php
+> git cat-file -s b13039731c4c9ac7fa18295660a55cb14214e14e
+> git show --textconv :app/Http/Controllers/API/ClientAPIController.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/app/Http/Controllers/API/ClientAPIController.php
+> git show --textconv :routes/api.php
+> git ls-files --stage -- /opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/routes/api.php
+> git cat-file -s bcb8b18986204615608d8013c463c73f1fa5a76e

@@ -1,0 +1,3 @@
+[2020-08-31 15:30:59.566] [sharedprocess] [info] main {"machineId":"82cef65762002ad2b5a278607351869e0d82d31241a7da8dd016226d8b82c936","windowId":2}
+[2020-08-31 15:30:59.717] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/~/.vscode-root/User/snippets'
+[2020-08-31 15:31:39.606] [sharedprocess] [info] Starting to clean up unused language packs.

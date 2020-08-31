@@ -1,0 +1,4 @@
+[2020-08-31 15:30:54.979] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/opt/lampp/htdocs/MesProjets/Laravel/InfyomLaravel/~/.vscode-root/User'
+[2020-08-31 15:30:55.466] [main] [info] update#setState idle
+[2020-08-31 15:31:49.280] [main] [info] update#setState checking for updates
+[2020-08-31 15:31:50.435] [main] [info] update#setState available for download
